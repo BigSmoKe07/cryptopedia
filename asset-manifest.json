@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cryptopedia/static/css/main.b8a9d155.chunk.css",
+    "main.js": "/cryptopedia/static/js/main.2f51a719.chunk.js",
+    "main.js.map": "/cryptopedia/static/js/main.2f51a719.chunk.js.map",
+    "runtime-main.js": "/cryptopedia/static/js/runtime-main.8bbda999.js",
+    "runtime-main.js.map": "/cryptopedia/static/js/runtime-main.8bbda999.js.map",
+    "static/css/2.a95be28f.chunk.css": "/cryptopedia/static/css/2.a95be28f.chunk.css",
+    "static/js/2.f1d488f9.chunk.js": "/cryptopedia/static/js/2.f1d488f9.chunk.js",
+    "static/js/2.f1d488f9.chunk.js.map": "/cryptopedia/static/js/2.f1d488f9.chunk.js.map",
+    "index.html": "/cryptopedia/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/cryptopedia/static/css/2.a95be28f.chunk.css.map",
+    "static/css/main.b8a9d155.chunk.css.map": "/cryptopedia/static/css/main.b8a9d155.chunk.css.map",
+    "static/js/2.f1d488f9.chunk.js.LICENSE.txt": "/cryptopedia/static/js/2.f1d488f9.chunk.js.LICENSE.txt",
+    "static/media/cryptocurrency.4104ffa7.png": "/cryptopedia/static/media/cryptocurrency.4104ffa7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bbda999.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.f1d488f9.chunk.js",
+    "static/css/main.b8a9d155.chunk.css",
+    "static/js/main.2f51a719.chunk.js"
+  ]
+}
